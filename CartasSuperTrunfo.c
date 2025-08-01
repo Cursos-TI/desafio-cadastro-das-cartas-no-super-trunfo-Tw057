@@ -14,7 +14,7 @@ int main() {
 
     // Carta 1
     printf("Carta 1\n");
-    printf("Qual a letra do estado? ");
+    printf("Qual a letra do estado?? ");
     scanf("%s", estado1);
 
     printf("Qual o código da carta? ");
